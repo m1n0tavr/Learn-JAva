@@ -1,0 +1,14 @@
+Создать массив Person[age, name]
+В нем создать 100 людей.
+
+Сделать функции сортировки по имени и по возрасту.
+
+
+
+git init
+git add .
+gir commit - m ""
+
+git remote add Learn https://github.com/m1n0tavr/Learn-JAva
+
+

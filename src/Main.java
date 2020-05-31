@@ -18,9 +18,9 @@ public class Main {
 //        person[8].setPerson(99, "Кир");
 //        person[9].setPerson(12, "Наташа");
 
-//        System.out.println("Сортируем по возрасту:");
-//        Person.SortAge(person);
-//        Person.PrintPerson(person);
+        System.out.println("Сортируем по возрасту:");
+        Person.SortAge(person);
+        Person.PrintPerson(person);
         System.out.println("-------------------------------------------------");
         System.out.println("Сортируем по имени:");
         Person.SortName(person);
