@@ -13,10 +13,13 @@ public class Main {
         person[5] = new Person (15, "Алекс");
         person[6] = new Person (50, "Никита");
         person[7] = new Person (2, "Ольга");
-        person[8] = new Person (99, "Кир");
-        person[9] = new Person (12, "Наташа");
-//        person[8].setPerson(99, "Кир");
-//        person[9].setPerson(12, "Наташа");
+//        person[8] = new Person (99, "Кир");
+//        person[9] = new Person (12, "Наташа");
+        person[8] = new Person();
+        person[8].setPerson(19,"КИр");
+        person[9] = new Person();
+        person[9].setPerson(12,"Наташа");
+
 
         System.out.println("Сортируем по возрасту:");
         Person.SortAge(person);
